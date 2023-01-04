@@ -1,0 +1,24 @@
+{
+    "ownerNumber": ["6289688329976@s.whatsapp.net","6281233554132@s.whatsapp.net"],
+    "ownerName": "Ciluk ب",
+    "instagram" : "https://www.tiktok.com/@panggilajasaynggg",
+    "botName": "Ciluk بot",
+    "footer": "Bot Kape (api.zeeoneofc.xyz)",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "FNsUSkHv",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": true,
+    "anticall": true,
+    "autorespond": true,
+    "autoblok212": false,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
