@@ -1,0 +1,28 @@
+{
+    "ownerNumber": ["6289688329976@s.whatsapp.net","6281233554132@s.whatsapp.net"],
+    "ownerName": "Ciluk ب",
+    "instagram" : "https://tracker.gg/valorant/profile/riot/KZ%20Tokyolagiii%23Oyen/overview",
+    "gcwa" : "https://github.com/onlykape",
+    "botName": "Ciluk بot",
+    "footer": "api.zeeoneofc.my.id",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "FNsUSkHv",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "antiDelete": true,
+    "autobio": true,
+    "anticall": true,
+    "autorespond": true,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
